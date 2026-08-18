@@ -152,11 +152,7 @@ The dashboard helps identify several important agricultural patterns:
 * Multi-page analytical dashboard
 * Professional dashboard layout
 
----
- 
-> Replace the dataset filename with your actual dataset filename if it is different.
 
----
  📈 Business Value
 
 This dashboard demonstrates how **Business Intelligence and Data Analytics** can be applied to the agriculture sector.
