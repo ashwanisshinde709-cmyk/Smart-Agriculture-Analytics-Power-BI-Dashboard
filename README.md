@@ -46,8 +46,7 @@ Key KPIs:**
 
 The page also provides navigation to the major analytical areas of the dashboard.
 
-![Smart Agriculture Overview](screenshots/01_overview.png)
-<img width="890" height="494" alt="Screenshot 2026-08-18 095223" src="https://github.com/user-attachments/assets/241e5e26-fb34-44d2-937a-34746e66d112" />
+
 
 ---
 
