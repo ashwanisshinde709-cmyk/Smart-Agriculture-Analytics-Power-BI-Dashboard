@@ -37,6 +37,8 @@ The project focuses on understanding **crop productivity, environmental conditio
 The overview page provides a high-level summary of the agricultural dataset.
 
 **<img width="890" height="494" alt="Screenshot 2026-08-18 095223" src="https://github.com/user-attachments/assets/4228d298-2930-4f91-a6ed-5e8621073d40" />
+
+
 Key KPIs:**
 
 * Total Farms: **500**
